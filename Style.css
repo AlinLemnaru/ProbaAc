@@ -1,0 +1,17 @@
+body {
+    background-color: #17252A;
+}
+
+#image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -105.8px 0 0 -100px;
+}
+
+img {
+    width: 200px;
+    height: 211.6px;
+    border-bottom-right-radius: 10%;
+    border-top-right-radius: 10%;
+}
